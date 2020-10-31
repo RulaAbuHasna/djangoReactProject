@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+.login {
+  width: 50%;
+  float: left;
+}
+
+.queries {
+  margin-top: 40px;
+}
+.target {
+  width: 1300px;
+  height: 200px;
+}
+.highlight {
+  background-color: yellow;
+}

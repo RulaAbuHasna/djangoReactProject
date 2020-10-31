@@ -1,0 +1,5 @@
+export const GET_REGEX = 'GET_REGEX'
+export const DELETE_REGEX = 'DELETE_REGEX'
+export const ADD_REGEX = 'ADD_REGEX'
+export const LOGIN_USER = 'LOGIN_USER'
+export const SIGNUP_USER = 'SIGNUP_USER'
